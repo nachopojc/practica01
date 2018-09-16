@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body{
+    font-size: 1.3em;
+}
+
+header {
+    background-color: #f1c40f;
+    width: 100%;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lobster', cursive;
+}
+.titulos{
+    width: 70%;
+    text-align: center;
+    float: left;
+}
+img{
+    width: 20%;
+}
+h1{
+    font-size: 4em;
+}
+aside{
+    font-size: 200%;
+    text-align: center;
+}
+main{
+    width: 100%;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+em{
+    color: #507297;
+}
+p{
+    color: gray;
+    text-align: justify;
+}
+strong{
+    color: black;
+}
